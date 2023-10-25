@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Pythoneer looking to work on exciting and challenging python projects.<br>I liked to talk about Artificial Intelligence.<br>I want to solve complaex tasks using AI that can change the world.
+I'm Pythoneer looking to work on exciting and challenging python projects.<br>I would like to talk about Artificial Intelligence.<br>I want to solve complaex tasks using AI that can change the world.
 
 
 ## 🌐 Socials:
