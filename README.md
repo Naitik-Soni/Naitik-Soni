@@ -29,7 +29,7 @@ Detections:
   ocr_document_ai                ██████████████████░░░  89%
   kalman_filtering                █████████████████░░░░  85%
   fastapi_backend_systems         █████████████████░░░░  84%
-  visual_slam                     ██████░░░░░░░░░░░░░░░  28%   [in progress]
+  visual_slam                     ██████░░░░░░░░░░░░░░░  5%   [in progress]
 
 7 objects detected. inference time: 2 years, 0 hallucinations.
 ```
@@ -89,7 +89,7 @@ Author: Naitik Soni
 
 | build | pipeline | result |
 |---|---|---|
-| 🧍 **Retail Footfall Analytics** | `YOLOv8 → BoT-SORT → line-crossing → CSV` | modular, production-style architecture |
+| 🧍 [**Retail Footfall Analytics**](https://github.com/Naitik-Soni/People-Analytics) | `YOLOv8 → BoT-SORT → line-crossing → CSV` | modular, production-style architecture |
 | 🎯 [**Multi-Tenant Attendance System**](https://github.com/Naitik-Soni/Smart-Attendance-System) | `RetinaFace → ArcFace → FastAPI` | full HLD/LLD, multi-tenant isolation |
 | 📄 **Document OCR Pipeline** | `PaddleOCR / DocTR / Docling → structured output` | 4 pages/min, zero manual correction |
 | ✍️ **Signature Detection** | `YOLOv8 fine-tune` | replaced a 100% manual bottleneck |
@@ -140,7 +140,6 @@ $ contact --naitik
 
 > linkedin  : linkedin.com/in/naitiktsoni
 > github    : github.com/Naitik-Soni
-> twitter   : twitter.com/Naitik_Soni_17
 > email     : naitiksoni1705@gmail.com
 ```
 
