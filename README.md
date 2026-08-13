@@ -128,10 +128,10 @@ Author: Naitik Soni
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Naitik-Soni&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naitik-Soni&theme=chartreuse-dark&hide_border=true&layout=compact"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Naitik-Soni&theme=highcontrast&hide_border=true"/>
+<img src="profile-summary-card-output/nord_dark/1-repos-per-language.svg"/>
+<img src="profile-summary-card-output/nord_dark/2-most-commit-language.svg"/>
+<img src="profile-summary-card-output/nord_dark/3-stats.svg"/>
+<img src="profile-summary-card-output/nord_dark/4-productive-time.svg"/>
 
 </div>
 
@@ -140,6 +140,7 @@ $ contact --naitik
 
 > linkedin  : linkedin.com/in/naitiktsoni
 > github    : github.com/Naitik-Soni
+> twitter   : twitter.com/Naitik_Soni_17
 > email     : naitiksoni1705@gmail.com
 ```
 
