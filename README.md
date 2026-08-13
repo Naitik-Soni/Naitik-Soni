@@ -1,108 +1,148 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=180&section=header&text=Naitik%20Soni&fontSize=56&fontColor=00d4ff&fontAlignY=38&desc=Computer%20Vision%20Engineer%20%7C%20Perception%20Systems%20%7C%20Deep%20Learning&descAlignY=58&descColor=a0aec0&animation=fadeIn"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=640&lines=Building+perception+systems+for+the+real+world+%F0%9F%91%81%EF%B8%8F;OCR+%7C+Object+Detection+%7C+Face+Recognition;YOLOv8+%7C+ArcFace+%7C+RetinaFace+%7C+DocTR;2%2B+years+building+production+CV+systems" alt="Typing SVG"/>
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e17,50:0f1729,100:0a0e17&height=150&section=header&text=NAITIK%20SONI&fontSize=42&fontColor=00ffcc&fontAlignY=45&desc=computer_vision_engineer.py&descAlignY=68&descColor=6b8cae&descAlign=50"/>
 
 </div>
 
----
+```bash
+$ whoami --verbose
 
-## 👁️ About Me
-
-```python
-naitik = {
-    "role"        : "Computer Vision & Perception Systems Engineer",
-    "experience"  : "2+ years building production-ready CV systems",
-    "focus"       : ["Object Detection", "Face Recognition", "OCR Pipelines", "Image Segmentation"],
-    "cv_stack"    : ["OpenCV", "YOLOv8", "RetinaFace", "ArcFace", "DocTR", "Docling", "MediaPipe"],
-    "dl_stack"    : ["TensorFlow", "PyTorch", "CNN Design", "Model Fine-tuning", "SIFT"],
-    "backend"     : ["Python", "FastAPI", "PostgreSQL", "Django", "REST APIs"],
-    "highlight_1" : "OCR pipeline: 5 min–1 hr manual effort → 4 pages/minute, zero manual correction",
-    "highlight_2" : "Hand gesture classifier: 98.6% accuracy at real-time inference",
-    "highlight_3" : "Designed full HLD/LLD for multi-tenant face recognition attendance system",
-    "currently"   : "Making machines see and understand the world in real time 🌍",
-}
+> Naitik Soni · Ahmedabad, IN
+> role      : Computer Vision Engineer, 2+ yrs in production
+> employer  : Silver Touch Technologies
+> mission   : teach machines to detect, track, and read the world correctly
 ```
 
----
+<br>
 
-## 🛠️ Tech Stack
+## `>_` detection_output.log
 
-### 👁️ Computer Vision & AI
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+Running a scan on my own skillset. Confidence scores below aren't decorative — they're roughly how deep each one actually goes.
 
-### 🔍 OCR & Document AI
-![DocTR](https://img.shields.io/badge/DocTR-4285F4?style=for-the-badge&logoColor=white)
-![Docling](https://img.shields.io/badge/Docling-6DB33F?style=for-the-badge&logoColor=white)
-![Tesseract](https://img.shields.io/badge/Tesseract-3776AB?style=for-the-badge&logoColor=white)
+```
+$ python detect_skills.py --input naitik_soni --conf 0.25
 
-### 💻 Backend & Data
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+Detections:
+  yolov8_object_detection        ████████████████████░  96%
+  multi_object_tracking          ███████████████████░░  93%
+  face_recognition_pipelines     ███████████████████░░  92%
+  ocr_document_ai                ██████████████████░░░  89%
+  kalman_filtering                █████████████████░░░░  85%
+  fastapi_backend_systems         █████████████████░░░░  84%
+  visual_slam                     ██████░░░░░░░░░░░░░░░  28%   [in progress]
 
----
+7 objects detected. inference time: 2 years, 0 hallucinations.
+```
 
-## 🚀 Featured Projects
+<br>
 
-| Project | What it does | Key result | Stack |
-|---|---|---|---|
-| 🎯 **[Multi-Tenant Attendance System](https://github.com/Naitik-Soni/Smart-Attendance-System)** | Real-time face recognition attendance across orgs | Full HLD/LLD, multi-tenant isolation | Python · FastAPI · ArcFace · RetinaFace |
-| ✋ **[Hand Cricket Runs Counter](https://github.com/Naitik-Soni/Hand-cricket-runs-counter)** | Real-time gesture classifier for 6 cricket signals | **98.6% accuracy**, loss: 0.05 | OpenCV · MediaPipe · TensorFlow |
-| 📄 **[Document OCR Pipeline](#)** | Digitize 2–200 page unstructured PDFs at scale | **4 pages/min**, zero manual correction | DocTR · Docling · OpenCV · Python |
-| ✍️ **[Signature Detection (YOLOv8)](#)** | Automate signature verification in document workflows | Replaced 100% manual bottleneck | YOLOv8 · Python · Custom Dataset |
+## `>_` beyond_the_badges.trace
 
----
+Anyone can `import ultralytics`. This is the layer most profiles skip — the motion-estimation and tracking theory built from first principles, not just called via a library.
 
-## 💼 Experience
+```
+[TRACE] optical_flow      : Lucas-Kanade · FlowNet · FlowNet2.0 · PWC-Net · RAFT
+[TRACE] filtering         : Kalman Filter · Hungarian Algorithm
+[TRACE] mot_algorithms    : KCF · SORT · DeepSORT · ByteTrack · BoT-SORT
+[TRACE] feature_detection : Harris Corners · SIFT · ORB · KLT
 
-**Junior Programmer · Silver Touch Technologies** *(Jul 2024 – Present)*
-- Built a production OCR pipeline (benchmarked Tesseract, DocTR, Docling) — cut per-doc processing from up to **1 hour manual → 4 pages/min**, zero manual correction
-- Applied histogram equalization + SIFT preprocessing to reduce recognition errors on degraded/noisy scans
-- Fine-tuned **YOLOv8** for signature detection — fully automated a previously 100% manual verification bottleneck
+[NOTE]  SORT tracker rebuilt from scratch (filterpy + scipy) on synthetic
+        video — not to get a tracker working, but to study *why* trackers
+        fragment under occlusion.
+```
 
-**Software Trainee Engineer · Silver Touch Technologies** *(Jan 2024 – Jun 2024)*
-- Built a Python RPA bot eliminating hours of weekly manual data workflow effort
-- Contributed to a **self-driving car prototype** — owned full data pipeline (collection → labelling → training), achieving **>90% accuracy** in simulation
+<br>
 
----
+## `>_` featured_build — retail_footfall_analytics
 
-## 📊 GitHub Stats
+```
+ ┌───────────┐     ┌─────────────┐     ┌──────────────┐     ┌───────────────┐     ┌────────────┐
+ │  Frame In │ ───▶│ YOLOv8      │ ───▶│  BoT-SORT    │ ───▶│ Line-Crossing │ ───▶│ CSV Report │
+ │  (stream) │     │ Detection   │     │  Tracking    │     │ + Hourly Agg. │     │  Output    │
+ └───────────┘     └─────────────┘     └──────────────┘     └───────────────┘     └────────────┘
+```
+
+Architected around a `FrameContext` dataclass and a `Stage` abstract-base pattern, so detection, tracking, and counting stay decoupled and independently testable — not a demo script bolted together. Outputs traffic-classified CSV reports ready for downstream analysis.
+
+<br>
+
+## `>_` git_log --experience
+
+```
+commit  2024-07  Junior Programmer @ Silver Touch Technologies
+Author: Naitik Soni
+        - built production OCR pipeline (Tesseract / DocTR / Docling / PaddleOCR benchmarked)
+        - cut per-doc processing: up to 1hr manual -> 4 pages/min, zero manual correction
+        - SIFT + histogram equalization preprocessing for degraded, noisy scans
+        - fine-tuned YOLOv8 for signature detection, killed a 100% manual bottleneck
+
+commit  2024-01  Software Trainee Engineer @ Silver Touch Technologies
+Author: Naitik Soni
+        - built Python RPA bot, removed hours/week of manual workflow effort
+        - owned full data pipeline (collect -> label -> train) for a self-driving
+          car prototype, >90% accuracy in simulation
+```
+
+<br>
+
+## `>_` shipped_projects
+
+| build | pipeline | result |
+|---|---|---|
+| 🧍 **Retail Footfall Analytics** | `YOLOv8 → BoT-SORT → line-crossing → CSV` | modular, production-style architecture |
+| 🎯 [**Multi-Tenant Attendance System**](https://github.com/Naitik-Soni/Smart-Attendance-System) | `RetinaFace → ArcFace → FastAPI` | full HLD/LLD, multi-tenant isolation |
+| 📄 **Document OCR Pipeline** | `PaddleOCR / DocTR / Docling → structured output` | 4 pages/min, zero manual correction |
+| ✍️ **Signature Detection** | `YOLOv8 fine-tune` | replaced a 100% manual bottleneck |
+| ✋ [**Hand Cricket Runs Counter**](https://github.com/Naitik-Soni/Hand-cricket-runs-counter) | `MediaPipe → custom NN` | 98.6% accuracy, loss 0.05 |
+
+<br>
+
+## `>_` stack
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Naitik-Soni&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Naitik-Soni&theme=tokyonight&hide_border=true&layout=compact"/>
+
+![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=00ffcc)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-000000?style=for-the-badge&logo=yolo&logoColor=00ffcc)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=00ffcc)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=00ffcc)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ffcc)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00ffcc)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00ffcc)
+![PaddleOCR](https://img.shields.io/badge/PaddleOCR-000000?style=for-the-badge&logoColor=00ffcc)
+
 </div>
 
+<br>
+
+## `>_` next_target.log
+
+```
+[QUEUE] video_analytics
+[QUEUE] surveillance_systems
+[QUEUE] drone_perception
+[QUEUE] autonomous_vehicle_perception
+[LEARNING_PATH] multi-camera tracking -> re-identification -> visual SLAM
+```
+
+<br>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naitik-Soni&theme=tokyonight&hide_border=true"/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Naitik-Soni&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naitik-Soni&theme=chartreuse-dark&hide_border=true&layout=compact"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Naitik-Soni&theme=highcontrast&hide_border=true"/>
+
 </div>
 
----
+```bash
+$ contact --naitik
 
-## 🌐 Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naitiktsoni/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Naitik_Soni_17)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Naitik-Soni)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naitiksoni1705@gmail.com)
-
-</div>
-
----
+> linkedin  : linkedin.com/in/naitiktsoni
+> github    : github.com/Naitik-Soni
+> email     : naitiksoni1705@gmail.com
+```
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e17,50:0f1729,100:0a0e17&height=80&section=footer"/>
 </div>
