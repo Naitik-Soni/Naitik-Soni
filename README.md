@@ -23,13 +23,13 @@ Running a scan on my own skillset. Confidence scores below aren't decorative —
 $ python detect_skills.py --input naitik_soni --conf 0.25
 
 Detections:
-  yolov8_object_detection        ████████████████████░  96%
-  multi_object_tracking          ███████████████████░░  93%
-  face_recognition_pipelines     ███████████████████░░  92%
-  ocr_document_ai                ██████████████████░░░  89%
-  kalman_filtering                █████████████████░░░░  85%
-  fastapi_backend_systems         █████████████████░░░░  84%
-  visual_slam                     ██████░░░░░░░░░░░░░░░  5%   [in progress]
+  yolov8_object_detection      ●●●●●●●●●●●●●●●●●●●●  96%
+  multi_object_tracking        ●●●●●●●●●●●●●●●●●●●○  93%
+  face_recognition_pipelines   ●●●●●●●●●●●●●●●●●●●○  92%
+  ocr_document_ai              ●●●●●●●●●●●●●●●●●●○○  89%
+  kalman_filtering             ●●●●●●●●●●●●●●●●●●○○  85%
+  fastapi_backend_systems      ●●●●●●●●●●●●●●●●●○○○  84%
+  visual_slam                  ●○○○○○○○○○○○○○○○○○○○  5%  [in progress]
 
 7 objects detected. inference time: 2 years, 0 hallucinations.
 ```
@@ -130,7 +130,7 @@ Author: Naitik Soni
 
 <img src="profile-summary-card-output/vue/1-repos-per-language.svg"/>
 <img src="profile-summary-card-output/vue/2-most-commit-language.svg"/>
-<img src="profile-summary-card-output/vue/3-stats.svg"/>
+<!-- <img src="profile-summary-card-output/vue/3-stats.svg"/> -->
 <img src="profile-summary-card-output/vue/4-productive-time.svg"/>
 
 </div>
