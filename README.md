@@ -8,7 +8,7 @@
 $ whoami --verbose
 
 > Naitik Soni · Ahmedabad, IN
-> role      : Computer Vision Engineer, 2+ yrs in production
+> role      : Computer Vision Engineer, 2+ yrs in development
 > employer  : Silver Touch Technologies
 > mission   : teach machines to detect, track, and read the world correctly
 ```
